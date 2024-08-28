@@ -1,0 +1,50 @@
+header{
+    background-color: rgb(19, 17, 17);
+    grid-gap: 8px;
+    justify-content: center;
+    justify-items: center;
+    padding: 20px;
+    
+    
+}
+.encabezado{
+    margin: 0%;
+    color: white;
+    text-align: center;
+    word-spacing: 15px;
+}
+h1{
+    margin: 0%;
+    color: white;
+    text-align: center;
+} 
+body, html{
+    margin: 0%;
+    padding: 0%;
+    height: 100%;
+}
+.sinespaciado{
+    word-spacing: 0px;
+}
+.parrafo{
+    color: black;
+    word-spacing: 0px;
+}
+button{
+    padding: 10px;
+    border: none;
+    width: 332px;
+    background-color: rgb(185, 177, 177);
+    height: 40px;
+    margin: 3px;
+}
+footer{
+    background-color: rgb(19, 17, 17);
+    grid-gap: 8px;
+    justify-content: center;
+    justify-items: center;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
